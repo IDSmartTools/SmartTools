@@ -1,0 +1,2 @@
+# SmartTools
+InDesign Plugin
